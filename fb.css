@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding:0;
+}
+.header{
+    height:72px;
+    background: #29487d;
+}
+.logo{
+    color:white;
+    float:left;
+}
+.menu{
+    float:right;
+    color:white;
+    padding-top:10px;
+}
+.inputOne{
+    display:inline-block;
+}
+.button{
+    background:#4267b2;
+    border-color:#29487d;
+    color:white;
+    padding:5px 10px;
+    border-radius:5px;
+}
+.button:hover{
+    background:#365899;
+}
+.inputOne input{
+    padding:5px 20px;
+}
+.clearfix{
+    width: 980px;
+    margin:0 auto;
+}
+.content{
+    width:100%
+}
+.left{
+    width:560px;
+    padding-top:20px;
+    float:left;
+}
+.right{
+    width:360px;
+    float:right;
+}
+.ad{
+    width:172px;
+    padding:15px;
+}
+.reqem{
+    margin:8px 0;
+    width:377px;
+    padding:15px;
+}
+select{
+    padding:8px;
+}
+.cin{
+margin:15px;
+}
+.qeydiyyat{
+    padding:10px 45px;
+    margin-top:15px;
+    background:#69a74e;
+    border-color:3b6e22;
+}
